@@ -1029,6 +1029,10 @@ textarea.form-control {
 
 }
 
+.menu-bg {
+  background-color: #262422
+}
+
 .menu-price {
   color: #404045;
 }
