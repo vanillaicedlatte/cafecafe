@@ -1267,6 +1267,7 @@ div#multiColumn {
 
     .navbar-toggle .icon-bar {
         border-radius: 0;
+        background-color: #F0e9da !important;
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
